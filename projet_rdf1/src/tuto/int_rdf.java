@@ -230,6 +230,10 @@ public class int_rdf extends JFrame {
 		System.out.println("Dev2 : Nice !!");
 		
 		System.out.println("Ucef : Good !!");
+		System.out.println("Dev2: Test !!");
 		System.out.println("Ucef : Bye!!");
+
+		
+
 	}
 }
