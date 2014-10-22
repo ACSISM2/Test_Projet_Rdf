@@ -229,5 +229,7 @@ public class int_rdf extends JFrame {
 		panel.add(b2);
 		System.out.println("Dev2 : Nice !!");
 		
+		System.out.println("Ucef : Good !!");
+		
 	}
 }
