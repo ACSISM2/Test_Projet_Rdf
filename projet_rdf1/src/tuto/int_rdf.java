@@ -219,7 +219,14 @@ public class int_rdf extends JFrame {
 			}
 		});
 		scrollPane_2.setViewportView(table);
-		
+		JButton b2 = new JButton("Quitter");
+		b2.setBounds(750, 400, 113, 23);
+		b2.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent arg0) {
+				System.exit(0);
+			}
+		});
+		panel.add(b2);
 		
 	}
 }
